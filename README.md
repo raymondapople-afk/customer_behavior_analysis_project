@@ -11,21 +11,21 @@ The output is designed for non-technical stakeholders, with insights delivered v
 
 Dataset
 
-Source: [Public / Synthetic / Internal-style dataset – replace as needed]
+Source: customer_shopping_behavior
 
 Format: CSV
 
 Size: 39K rows, 18 Columns
 
-Domain: [e.g. sales, operations, customer, finance]
+Domain: Sales
 
 Key Data Fields
 
-Date / Time fields
+Purchase amounts/ review ratings/ subscription status
 
-Categorical attributes (e.g. region, product, customer segment)
+Categorical attributes: Customer segments, products
 
-Numerical metrics (e.g. revenue, cost, volume, performance indicators)
+Numerical metrics revenue, review ratings
 
 Tools & Technologies
 
